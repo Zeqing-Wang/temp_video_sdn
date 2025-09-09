@@ -1,0 +1,170 @@
+{
+    "v_7QxUtHqQdbY": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_5MLEO5JWRYI": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_seesaw": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_v2zVnmbPmeQ": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+            "taskId": "6fcf76c18da25501e5b7a48ca80f682b",
+            "paramJson": "{\"aspectRatio\":\"16:9\",\"enableFallback\":false,\"enableTranslation\":true,\"model\":\"veo3_fast\",\"prompt\":\"A young woman stands before a mirror as the camera films her through the mirror’s reflection, capturing her applying red lipstick while gazing at herself. Then she wears a sparkling silver headband.\",\"translatedPrompt\":\"A young woman stands before a mirror as the camera films her through the mirror's reflection, capturing her applying red lipstick while gazing at herself. Then she wears a sparkling silver headband.\"}",
+            "response": {
+                "taskId": "6fcf76c18da25501e5b7a48ca80f682b",
+                "resultUrls": [
+                    "https://tempfile.aiquickdraw.com/p/6fcf76c18da25501e5b7a48ca80f682b_1755170257.mp4"
+                ],
+                "originUrls": null,
+                "seeds": [
+                    15293
+                ]
+            },
+            "successFlag": 1,
+            "fallbackFlag": false,
+            "completeTime": 1755170258000,
+            "createTime": 1755170197000,
+            "errorCode": null,
+            "errorMessage": null
+        }
+    },
+    "originated_banana": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_peacock": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_lake": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_balloon": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_dryice": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "originated_solution": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_GGSY1Qvo990": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_E9R1H8xRIW8": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_5qsXmDi8d74": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_ng14GLT_hHQ": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_y9kk0ptXevk": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_jikOPvJPU-c": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_90vop6PS2Y0": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_ZVIi4lPU6h0": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_7NG6UrY2Foo": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_D5jLypnn6Ps": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_2rHsoF35eQw": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "v_3hZjxdMcG6o": {
+        "code": 200,
+        "msg": "success",
+        "data": {
+            "taskId": "d5dc0b2cd629c5644f234ab6c17413a4",
+            "paramJson": "{\"aspectRatio\":\"16:9\",\"enableFallback\":false,\"enableTranslation\":true,\"model\":\"veo3_fast\",\"prompt\":\"A basketball game unfolds as a man wearing the jersey of an NBA team from Chicago stands in the corner of the court waiting to receive the ball. Another player at the top of the arc wearing a blue jersey passes it to him, and he takes the shot and scores.\",\"translatedPrompt\":\"A basketball game unfolds as a man wearing the jersey of an NBA team from Chicago stands in the corner of the court waiting to receive the ball. Another player at the top of the arc wearing a blue jersey passes it to him, and he takes the shot and scores.\"}",
+            "response": {
+                "taskId": "d5dc0b2cd629c5644f234ab6c17413a4",
+                "resultUrls": [
+                    "https://tempfile.aiquickdraw.com/p/d5dc0b2cd629c5644f234ab6c17413a4_1755170337.mp4"
+                ],
+                "originUrls": null,
+                "seeds": [
+                    75461
+                ]
+            },
+            "successFlag": 1,
+            "fallbackFlag": false,
+            "completeTime": 1755170344000,
+            "createTime": 1755170269000,
+            "errorCode": null,
+            "errorMessage": null
+        }
+    },
+    "16844602-5915-591a-87d9-95e436e113ec": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "f60ba5ee-b557-5744-8f14-93fe101ec68a": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "b8fda2cb-e9ac-589d-a6a7-05f9c5fde4ab": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "d7502661-75a5-5543-9f80-b8b762118603": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "620a99f2-4730-56c3-8163-e88b4fc1d0c8": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "f6ff4aca-8dac-5522-be70-9e369963f4af": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "71577382-4663-53ad-98ba-f11ec0ec60c5": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "fc835f7c-fef3-5eff-8078-eb2ae598e772": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "e231ba29-bff7-5526-835e-bd68cf4fa1ef": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    },
+    "eda4f7b3-6a0f-5635-a39d-22a045d689d6": {
+        "status": "skipped",
+        "reason": "Output file already exists."
+    }
+}
